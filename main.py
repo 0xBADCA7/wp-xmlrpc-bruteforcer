@@ -93,7 +93,7 @@ def requester(tried, calls, qQueue, password_found):
 		calls += 1
 
 		#@debug
-		print("[+]", threading.current_thread().name, "Total words: ", tried, "Total calls: ", calls)
+		print("[i]", threading.current_thread().name, "Total words: ", tried, "Total calls: ", calls)
 
 		if re.search("isAdmin", str(res.results), re.MULTILINE):
 			# This is incorrectly getting a password that has been used
