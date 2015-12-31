@@ -64,6 +64,6 @@ Password found. All done. Bye
 ```
 
 # License
-Licensed under GPLv3, see [gpl-3.0.txt](/wp-xmlrpc-bruteforcer/blob/master/gpl-3.0.txt) for details.
+Licensed under GPLv3, see [gpl-3.0.txt](gpl-3.0.txt) for details.
 
 
